@@ -8,7 +8,7 @@ Refer to the [`original plugin`](https://github.com/gridsome/gridsome/tree/maste
 
 ## Usage
 
-#### gridsome.config.js
+### gridsome.config.js
 
 ```js
 module.exports = {
@@ -27,7 +27,7 @@ module.exports = {
 };
 ```
 
-#### package.json
+### package.json
 
 Download this repo and place it into a folder in your project (e.g. `custom/gridsome-src-contentful-custom`). Replace `<path-to-local-copy>` below with the path to that folder.
 
